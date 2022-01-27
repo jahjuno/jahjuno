@@ -3,7 +3,7 @@
 <p align=center>  <strong> 🇲🇬 Miarahaba anao🇲🇬</strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Aina+Juno+RAFIDISON'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2303B133&size=24&width=410&height=52&lines=Hasin+ny+Aina+Juno+RAFIDISON'/>
 </p>
 
 <p align='center'>
