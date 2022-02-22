@@ -24,6 +24,8 @@
   <img alt='Manjaro' src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white'/>
 </p>
 <br>
+<h5 align='center'>Contact me</h5>
+<br>
 <p align='center'>
   <a href='https://www.linkedin.com/in/rafidison-hasin-ny-aina-juno-54a615162/'><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   <a href='mailto:aina.juno.rafidison@esti.mg'><img alt='E-mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
