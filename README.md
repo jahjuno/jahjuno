@@ -1,6 +1,6 @@
 
   
-<p align=center>  <strong> 🇲🇬 Manahoana ianao🇲🇬</strong> <p>
+<p align=center>  <strong> 🇲🇬 Manahoana ! 🇲🇬</strong> <p>
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?color=%2303B133&size=24&width=410&height=52&lines=Hasin+ny+Aina+Juno+RAFIDISON'/>
