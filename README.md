@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:423da7,100:008080&fontColor=dedede&height=160&section=header&text=Ny%20fahaizana%20tsara%20indrindra%20dia%20ny%20fahaizana%20mamindra&fontSize=20&align=center" />
 
-  
-<p align=center>  <strong> 🇲🇬 Manahoana ! 🇲🇬</strong> <p>
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?color=%2303B133&size=24&width=410&height=52&lines=Hasin+ny+Aina+Juno+RAFIDISON'/>
@@ -15,6 +13,7 @@
   <img alt='Powershell' src='https://img.shields.io/badge/Powershell Script-3776AB?style=for-the-badge&logo=powershell&logoColor=white' />
 </p>
 <h3 align="center">Visitor Account</h3>
+
 <div align="center">
   <img  src="https://profile-counter.glitch.me/jahjuno/count.svg">
 </div>
