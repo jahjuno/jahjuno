@@ -12,11 +12,8 @@
   <img alt='Css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
   <img alt='Powershell' src='https://img.shields.io/badge/Powershell Script-3776AB?style=for-the-badge&logo=powershell&logoColor=white' />
 </p>
-<h3 align="center">Visitor Account</h3>
 
-<div align="center">
-  <img  src="https://profile-counter.glitch.me/jahjuno/count.svg">
-</div>
+
 <br>
 <p align='center'>
   <img alt='Github Status' src='https://github-readme-streak-stats.herokuapp.com/?user=jahjuno&theme=solarized-dark&date_format=j%20M%5B%20Y%5D&&theme=leafy&date_format=j%2Fn%5B%2FY%5D&background=040512&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF'/>
