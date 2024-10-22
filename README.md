@@ -11,6 +11,7 @@
   <img alt='Html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
   <img alt='Css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
   <img alt='Powershell' src='https://img.shields.io/badge/Powershell Script-3776AB?style=for-the-badge&logo=powershell&logoColor=white' />
+  <img alt='Powershell' src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' />
 </p>
 
 
